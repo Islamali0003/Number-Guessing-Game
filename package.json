@@ -1,0 +1,26 @@
+{
+  "name": "islams_numberguessinggame",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "islams_numberguessinggame": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ISlam",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.1.5"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3"
+  }
+}
